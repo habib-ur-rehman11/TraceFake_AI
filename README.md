@@ -42,7 +42,6 @@ This was a very small, informal check, not a formal evaluation, so I do not trea
 git clone https://github.com/habib-ur-rehman11/TraceFake_AI.git
 cd TraceFake_AI
 pip install -r requirements.txt
-[COMMAND TO START THE APP]
 ```
 
 Requirements: Python [VERSION], TensorFlow/Keras, OpenCV. [CONFIRM AND ADD A requirements.txt TO THE REPO]
